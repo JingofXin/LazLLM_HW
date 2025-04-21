@@ -1,2 +1,2 @@
-# LazLLM_HW
+# LazyLLM HomeWork
 Homework for LazyLLM RAG Tutorials.
